@@ -1,0 +1,1 @@
+cls && g++ -O2 .\App\Src\*.cpp -o .\App\Bin\Quiz.exe && .\App\Bin\Quiz.exe

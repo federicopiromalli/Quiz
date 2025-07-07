@@ -1,0 +1,20 @@
+(Quale scrittore ha scritto La Divina Commedia?)[0]{Dante Alighieri}{Giovanni Boccaccio}{Alessandro Manzoni}
+(Quale pianeta e' noto come il "pianeta rosso"?)[1]{Venere}{Marte}{Giove}
+(In quale Paese si trova la Torre Eiffel?)[0]{Francia}{Italia}{Spagna}
+(Quale animale e' tradizionalmente simbolo di saggezza?)[2]{Leone}{Giraffa}{Gufo}
+(Quale elemento chimico ha il simbolo "O"?)[0]{Ossigeno}{Oro}{Osmio}
+(In quale citta' nacque Leonardo da Vinci?)[1]{Roma}{Vinci}{Firenze}
+(In quale anno inizio' la Seconda Guerra Mondiale?)[0]{1939}{1945}{1914}
+(Quale strumento musicale ha 88 tasti?)[2]{Violino}{Arpa}{Pianoforte}
+(Il numero 7 e' un numero...)[1]{Pari}{Dispari}{Decimale}
+(Che colore si ottiene mescolando il rosso e il blu?)[2]{Verde}{Arancione}{Viola}
+(Su quale continente si trova l'Egitto?)[1]{Asia}{Africa}{Europa}
+(In quale Paese si trovano le Cascate del Niagara?)[0]{Canada}{Brasile}{Norvegia}
+(Dove lavora un paleontologo?)[2]{Ospedale}{Tribunale}{Scavo archeologico}
+(Quale sport si gioca con una racchetta e una rete?)[1]{Calcio}{Tennis}{Rugby}
+(Quale metallo e' liquido a temperatura ambiente?)[2]{Ferro}{Alluminio}{Mercurio}
+(In quale Paese si trova la Grande Muraglia?)[0]{Cina}{India}{Corea del Sud}
+(In quale Paese si trova la citta' di Tokyo?)[1]{Cina}{Giappone}{Corea del Sud}
+(Quale dei seguenti e' un browser web?)[2]{Photoshop}{Excel}{Chrome}
+(In quale regione italiana si produce il Parmigiano Reggiano?)[1]{Campania}{Emilia-Romagna}{Toscana}
+(Che cosa misura un barometro?)[0]{Pressione atmosferica}{Temperatura}{Umidita'}
