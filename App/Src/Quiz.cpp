@@ -1,4 +1,4 @@
-#include "../include/Quiz.hpp"
+#include "../Include/Quiz.hpp"
 
 #include <fstream>
 #include <iostream>
